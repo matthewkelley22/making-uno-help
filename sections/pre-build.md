@@ -16,7 +16,7 @@ This kit has the basic necessities to get you going.
 
 - Lead-free solder
 
-You're probably going to need more solder than you'll get in the kit, and you'll get lead poisoning if you use leaded solder and don't follow proper procedure. Look for a RoHS symbol on the solder and you should be good.
+You're going to need more solder than you get in the kit, and you'll get lead poisoning if you use leaded solder and don't follow proper procedure. Look for a RoHS symbol on the solder and you should be good.
 
 - Lead-free solder wick
 
