@@ -30,7 +30,9 @@ You need something to hold what you're soldering, otherwise you'll burn yourself
 
 This section's equipment is mostly upgrades to the Absolute Minimum section.
 
-- 
+- Pinecil Soldering Iron or SainSmart TS101 Soldering Iron
+
+You can power these soldering irons with a USB-C laptop charger, so you get to use them further from the wall. They should also heat up faster than the soldering iron from the kit.
 
 ## Hobbyist
 
