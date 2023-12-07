@@ -34,7 +34,7 @@ If solder gets in your eye you're going to lose it.
 
 This section's equipment is either upgrades or additions to the items in the soldering kit. You don't need to get everything in this section or any section below this, just get what you think will be the most use to you.
 
-- Pinecil Soldering Iron or SainSmart TS101 Soldering Iron
+- Pinecil Soldering Iron or SainSmart TS101 Soldering Iron (and Soldering Iron Holder if missing one)
 
 You can power these soldering irons with a USB-C laptop charger, so you get to use them farther from the wall and switch soldering tips while still hot. They should also heat up faster than the soldering iron from the kit.
 
@@ -42,7 +42,9 @@ You can power these soldering irons with a USB-C laptop charger, so you get to u
 
 You've got a lot of options (mostly silicone), but I'd suggest going for something with ESD protection. You don't want to fry what you're soldering and waste all your time and money. This also protects whatever surface you're working on.
 
+- Kaisiking Wire Soldering Tip Cleaner
 
+Wire soldering tip cleaner - no more wetting a sponge before soldering. It's $9 and comes with wire replacements.
 
 ## Hobbyist
 
