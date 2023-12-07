@@ -12,7 +12,7 @@ The equipment from this section is the absolute minimum you'll need to solder an
 
 - $15 Plusive soldering kit on Amazon
 
-This kit has the basic necessities to get you going.
+This kit has the basic necessities to get you started.
 
 - Lead-free solder
 
@@ -32,7 +32,7 @@ If solder gets in your eye you're going to lose it.
 
 ## Barebones
 
-This section's equipment is either upgrades or additions to the items in the soldering kit. You don't need to get everything in this section or any section below this, just get what you think will be the most use to you.
+Either upgrades or additions to the items in the soldering kit. You don't need to get everything in this section or any section below this, just get what you think will be the most use to you.
 
 - Pinecil Soldering Iron or SainSmart TS101 Soldering Iron (and Soldering Iron Holder if missing one)
 
