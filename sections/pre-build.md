@@ -12,23 +12,11 @@ The equipment from this section is the absolute minimum you'll need to solder an
 
 | Item | Description  |
 |----|----|
-|$15 Plusive soldering kit on Amazon | This kit has the basic necessities to get you started. |
-
-- Lead-free solder
-
-You're going to need more solder than you get in the kit, and you'll get lead poisoning if you use leaded solder and don't follow proper procedure. Look for a RoHS symbol on the solder and you should be good.
-
-- Lead-free solder wick
-
-Solder wick is how you fix your mistakes, if you're just starting out you'll probably make a lot. You'll get a solder sucker in the kit for the same purpose, but it's often like using a sledgehammer to hammer a nail and solder wick can be used in a ton of ways that a sucker just can't. (Same as the solder, look for RoHS-compliant or something along those lines)
-
-- NEIKO 01902 PCB Holder
-
-You need something to hold what you're soldering, otherwise you'll burn yourself. The soldering iron will be heating up to over 400 degrees Fahrenheit and your job is to heat up the joint being soldered to the same temperature.
-
-- Eye Protection
-
-If solder gets in your eye you're going to lose it.
+|$15 Plusive soldering kit on Amazon | The basic necessities to get you started. |
+| Lead-free solder | You're going to need more solder than you get in the kit, and you'll get lead poisoning if you use leaded solder and don't follow proper procedure. Look for a RoHS symbol on the solder and you should be good. |
+| Lead-free solder wick | Solder wick is how you fix your mistakes, if you're just starting out you'll probably make a lot. You'll get a solder sucker in the kit for the same purpose, but it's often like using a sledgehammer to hammer a nail and solder wick can be used in a ton of ways that a sucker just can't. (Same as the solder, look for RoHS-compliant or something along those lines) |
+| NEIKO 01902 PCB Holder | You need something to hold what you're soldering, otherwise you'll burn yourself. The soldering iron will be heating up to over 400 degrees Fahrenheit and your job is to heat up the joint being soldered to the same temperature. |
+| Eye Protection | If solder gets in your eye you're going to lose it. |
 
 ## Barebones
 
