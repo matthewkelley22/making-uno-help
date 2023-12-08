@@ -4,6 +4,17 @@ Arduino's kit doesn't come with soldering equipment, so this file is primarily i
 
 DISCLAIMER: None of this is financial advice and I'm not a financial advisor, I'm just a random dude jotting down some ideas on what I think is helpful.
 
+[Gear Recommendations - Absolute Minimum](#absolute-minimum)
+
+[Gear Recommendations - Barebones](#barebones)
+
+[Gear Recommendations - Hobbyist: Less Expensive](#less-expensive)
+
+[Gear Recommendations - Hobbyist: More Expensive](#more-expensive)
+
+
+
+
 # Gear Recommendations
 
 ## Absolute Minimum
