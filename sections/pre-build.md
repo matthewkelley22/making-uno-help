@@ -32,16 +32,23 @@ Either upgrades or additions to the items in the soldering kit. You don't need t
 
 This is the stuff hobbyists or people with money burning a hole in their pocket should be looking at.
 
-| Item | Description  |
-|----|----|
-| | |
-
 ### Less Expensive
 
 This section's equipment is mostly upgrades to the Absolute Minimum  and Barebones sections.
 
+| Item | Description  |
+|----|----|
+|  |  |
+
 
 ### More Expensive
+
+This section consists of things for people who don't like having money.
+
+| Item | Description  |
+|----|----|
+|  |  |
+
 
 ## Professional
 
