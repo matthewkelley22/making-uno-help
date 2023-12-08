@@ -13,7 +13,7 @@ The equipment from this section is the absolute minimum you'll need to solder an
 | Item | Description  |
 |----|----|
 |$15 Plusive soldering kit on Amazon | The basic necessities to get you started. |
-| Lead-free solder | You're going to need more solder than you get in the kit, and you'll get lead poisoning if you use leaded solder and don't follow proper procedure. Look for a RoHS symbol on the solder and you should be good. |
+| Lead-free solder | You're going to need more solder than you get in the kit, and you'll get lead poisoning if you use leaded solder and don't follow proper procedure. Look for a RoHS symbol on the solder and you'll be good. |
 | Lead-free solder wick | You fix your mistakes with solder wick and you'll be making a lot, so you're going to need plenty of wick. A solder sucker is like a sledgehammer, but you need something smaller. |
 | NEIKO 01902 PCB Holder | Your hands will be full when soldering, so you need something to hold whatever you're soldering that won't burn. |
 | Eye Protection | If something gets in your eye at the temperatures you'll be working at, you're going to lose it. Don't solder without eye protection. |
