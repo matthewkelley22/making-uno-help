@@ -10,9 +10,9 @@ DISCLAIMER: None of this is financial advice and I'm not a financial advisor, I'
 
 The equipment from this section is the absolute minimum you'll need to solder anything.
 
-- $15 Plusive soldering kit on Amazon
-
-This kit has the basic necessities to get you started.
+-----------------------
+| Item | Description  |
+|$15 Plusive soldering kit on Amazon | This kit has the basic necessities to get you started. |
 
 - Lead-free solder
 
